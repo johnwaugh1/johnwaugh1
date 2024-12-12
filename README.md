@@ -4,11 +4,8 @@
 📧 [johnmwaugh21@gmail.com](mailto:johnmwaugh21@gmail.com)  
 📱 (919) 928-6815  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/john-waugh1)  
-[![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)](https://github.com/johnwaugh1)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=githubpages)](https://johnwaugh1.github.io/Portfolio-Website/) 
-
-[![Team Sunergy](https://img.shields.io/badge/Team_Sunergy-yellow?style=flat&logo=solar-panel)](https://sunergy.appstate.edu/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/john-waugh1)  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=githubpages)](https://johnwaugh1.github.io/Portfolio-Website/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)](https://github.com/johnwaugh1)  [![Team Sunergy](https://img.shields.io/badge/Team_Sunergy-yellow?style=flat&logo=solar-panel)](https://sunergy.appstate.edu/)
 
 ---
 
