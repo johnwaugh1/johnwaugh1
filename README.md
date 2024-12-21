@@ -10,8 +10,9 @@
 
 ## 👨‍🎓 Education
 **Appalachian State University**  
+**GPA:** 3.6/4.0
+
 **B.S. Computer Science**  
-**GPA:** 3.6/4.0  
 📅 *Aug 2022 - Present*  
 
 **M.S. Data Science and Visual Computing**  
