@@ -16,12 +16,12 @@
 📅 *Aug. 2022 - Present*  
 
 **M.S. Data Science and Visual Computing**  
-📅 *Aug. 2025 - Present*  
+📅 *Dec. 2025 - Present*  
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** Java, C, Haskell, SQL, Python, R
+- **Programming Languages:** Python, C, Java, SQL, R
 - **Web Development:** React, Tailwind, HTML, CSS, JS
 - **Other:** Github, Git
 
@@ -30,6 +30,6 @@
 - Data Science
 - Full-Stack Web Development
 - Embedded Systems and Telemetry Design
-- Software Engineering in Motorsport
+- Software Engineering in Bicycle Industry
 
 ---
