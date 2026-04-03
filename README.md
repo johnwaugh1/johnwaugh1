@@ -13,7 +13,7 @@
 **GPA:** 3.6/4.0
 
 **B.S. Computer Science**  
-📅 *Aug. 2022 - Present*  
+📅 *Aug. 2022 - Dec. 2025*  
 
 **M.S. Data Science and Visual Computing**  
 📅 *Dec. 2025 - Present*  
