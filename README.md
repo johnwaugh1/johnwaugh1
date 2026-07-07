@@ -29,8 +29,14 @@ GPA: **3.6 / 4.0**
 
 ## 💼 Experience
 
+### Photometric Engineer | Sapphire Technical Solutions
+*July 2026 - Present*
+- Developed firmware supporting sensor calibration, flash-memory management, TCP/IP networking, and command-processing functionality
+- Calibrate photometric and radiometric measurement systems while performing product testing to ISO-17025 and industry standards
+- Design, develop, test, and troubleshoot laboratory software, automated test systems, and electronic instrumentation
+
 ### Software Developer Intern | Sapphire Technical Solutions
-*May 2026 – Present*
+*May 2026 – July 2026*
 
 - Developing embedded firmware for industrial sensor systems
 - Implementing TCP/IP networking, RTOS services, and hardware interfaces
